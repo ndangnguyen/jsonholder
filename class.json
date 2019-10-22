@@ -1,0 +1,12 @@
+{
+    "class" : [
+        {
+            "name" : "English",
+            "time_start" : "8:30"
+        }
+        {
+            "name" : "France",
+            "time_start" : "9:45"
+        }
+    ]
+}

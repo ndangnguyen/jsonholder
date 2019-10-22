@@ -11,6 +11,10 @@
         {
             "name" : "France",
             "time_start" : "9:45"
+        },
+        {
+            "name" : "VietNam",
+            "time_start" : "9:45"
         }
     ]
 }
